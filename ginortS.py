@@ -25,7 +25,7 @@ for i in range(len(l3)):
         odd.append(l3[i])
 
 even.sort()
-odd.sort
+odd.sort()
 print(*(l1+l2+odd+even),sep='')
 
 
